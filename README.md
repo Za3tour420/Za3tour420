@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=za3tour420&label=Profile%20views&color=0e75b6&style=flat" alt="za3tour420" /> </p>
 
-- 🔭 I’m currently working on a **QT Widget Application**
+- 🔭 I’m currently working on a **AI-driven projects**
 
-- 🌱 I’m currently learning **C++, QT**
+- 🌱 I’m currently learning about **LLMs and Generative AI**
 
 - 💬 Ask me about **anything on your mind**
 
-- 📫 How to reach me **fezzani.ami@gmail.com**
+- 📫 You can reach me at **fezzani.ami@gmail.com**
 
 - 📄 Know about my experiences on my profile
 
