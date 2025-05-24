@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything on your mind**
 
-- 📫 You can reach me at **fezzani.ami@gmail.com**
+- 📫 You can reach me at **mohamedaminefezzani@gmail.com**
 
 - 📄 Know about my experiences on my profile
 
