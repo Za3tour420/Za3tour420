@@ -11,9 +11,7 @@
 
 - 📫 You can reach me at **mohamedaminefezzani@gmail.com**
 
-- 📄 Know about my experiences on my profile
-
-- ⚡ Fun fact **Bananas without "B" is pineapple!**
+- ⚡ Fun fact: **Bananas without "B" is pineapple!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
